@@ -1,0 +1,21 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_nLED
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_nLED	KEYWORD1
+	create_place	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	clear	KEYWORD2
+	light	KEYWORD2
+	point	KEYWORD2
+	print	KEYWORD2
+	setLED	KEYWORD2
+	align	KEYWORD2
+	hide	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	nLED_ALL	LITERAL1
+	nLED_LEFT	LITERAL1
+	nLED_RIGHT	LITERAL1
